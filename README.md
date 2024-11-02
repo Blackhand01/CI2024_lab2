@@ -1,4 +1,4 @@
-# Lab 2: Solving the Traveling Salesman Problem (TSP) Using Genetic and Greedy Algorithms
+# Lab 2: Solving the Traveling Salesman Problem (TSP)
 
 ## Introduction
 
